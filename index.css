@@ -1,0 +1,21 @@
+body{
+    background-image: url("images/great.jpg");
+}
+
+h1 {
+    font-size: 1.3em;
+    text-align: center;
+}
+
+
+tr {
+    border: 1px solid #FFFFFF;
+    text-align: center;
+    background-color:#FF99CC;
+}
+
+th {
+    text-align: center;
+    color: #FF99CC;
+    background-color: #FF99CC;
+}
